@@ -1,0 +1,8 @@
+Pvalue of Frequency bitwise test: 0.7236736098317631
+Pvalue of Test for identical consecutive bits: 0.4859663683620416
+Pvalue of Test for the longest sequence of units in a block: 0.4641878475985987
+
+Pvalue of Frequency bitwise test: 0.21592493894014045
+Pvalue of Test for identical consecutive bits: 0.8910439364805282
+Pvalue of Test for the longest sequence of units in a block: 0.9629608942072102
+
